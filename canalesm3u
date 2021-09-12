@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Matriculahd.co" tvg-country="CO" tvg-language="Spanish" tvg-logo=".https://images.app.goo.gl/sz3D66H9TzzZaeZm7" group-title="Local",Matriculahd
+https://youtu.be/Zk0uq9D2e_I.m3u
+
+#EXTINF:-1 tvg-id="Cronica hd.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/iEyutbUgDsobiA1j8" group-title="Local",Cronicahd
+https://youtu.be/avsnd6hvE5Q.m3u 
+
+#EXTINF:-1 tvg-id="TN hd.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/zchLTi79vdaNqN4v" group-title="Local",TNhd
+https://youtu.be/wHn1_QVoXGM.m3u
+
+#EXTINF:-1 tvg-T13.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/zXy95XaYj85WR4dD9" group-title="Local",T13hd
+https://youtu.be/rYa2KTfLW3w.m3u
+
+#EXTINF:-1 tvg-America.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/ApQxaPjZ3DXExWhd8" group-title="Local",Americahd
+https://youtu.be/7SmWhIdyc9M.m3u
+
+#EXTINF:-1 tvg-LN.co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/Jsj7A9wu5KJaAp9W8" group-title="Local",LNhd
+https://youtu.be/5ql5hNZQzKc.m3u 
+
+#EXTINF:-1 tvg-Canal 7co" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/Vhu6Dwx1XaURzZMw9" group-title="Local",Canal7hd
+https://youtu.be/HD-xQ_eTO2I.m3u 
+
+#EXTINF:-1 tvg-Canal encuertroco" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/xTMFfCFW43LGPLJ67" group-title="Local",Canal encuentrohd
+https://youtu.be/Ocx2HcGyNUQ.m3u
+
+#EXTINF:-1 tvg-Mega Noticiasco" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://images.app.goo.gl/yA7kWGsBtzBHBmP76" group-title="Local",Mega Noticiashd
+https://youtu.be/fLdESmi7rdI.m3u
